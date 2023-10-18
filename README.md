@@ -27,6 +27,8 @@ MacAlert is a SwiftUI-based macOS application that monitors your power adapter's
 - Ability to confirm unplugging intentions.
 - Easy-to-use user interface.
 
+- Future roll-out with Apple Developer Membership is planned!
+
 ## Installation
 
 1. Clone or download the MacAlert repository to your Mac.
