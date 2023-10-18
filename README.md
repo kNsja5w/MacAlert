@@ -1,4 +1,5 @@
-# MacAlert
+
+# MacAlert ![128-mac 1](https://github.com/kNsja5w/MacAlert/assets/16246095/c2ff7ef5-8622-4a51-8cf6-0a340df44f7f) 
 
 MacAlert is a macOS app that helps you preventing theft, by keeping watch over the power connection status and starting an alarm, when disconnected unintentionally. It was used as small security measure during travel and work in public spaces, with power plugged in.
 
