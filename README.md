@@ -15,6 +15,11 @@ MacAlert is a macOS app that helps you preventing theft, by keeping watch over t
 
 MacAlert is a SwiftUI-based macOS application that monitors your power adapter's status and provides audio alerts when it's disconnected. This can be particularly useful to ensure that your Mac remains powered when needed or to alert you in case of unintentional disconnection.
 
+
+<img width="888" alt="Bildschirmfoto 2023-10-18 um 23 49 37" src="https://github.com/kNsja5w/MacAlert/assets/16246095/5d370246-eb4e-482b-9048-4ec74f8aa501">
+
+
+
 ## Features
 
 - Real-time monitoring of power adapter connection.
